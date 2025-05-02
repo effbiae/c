@@ -1,7 +1,7 @@
 ### a k transpiler
 c uses shakti's k.edu core for primitives
 
-d is a port to c of p.py and c
+d is a port to c of the transpiler
 ### get, build and run
 ```
 $ git clone --recursive https://github.com/effbiae/c.git   #recursive to get the k.edu submodule
